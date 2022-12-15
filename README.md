@@ -6,7 +6,7 @@ I'm very happy for start my navigation by the world of development.
 - I'm just preparing this page to be a confortable place for  my ideas and my projects.
 
 
-- Thankyou for your visit.✨
+- Thanks for your visit.✨
 
 - 📫 How to reach me in Linkedin.
 
