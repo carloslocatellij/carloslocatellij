@@ -10,7 +10,7 @@
 
 - 📫 How to reach me in Linkedin.
 
-[link] https://www.linkedin.com/in/carloslocatelli/
+[![linkedin] https://www.linkedin.com/in/carloslocatelli/
 
 
 
