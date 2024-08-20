@@ -1,16 +1,16 @@
-- 👋 Hi, I'm Carlos A. Locatelli Jr.
--   Wellcome to my github - @carloslocatellij
+# 👋 Hi, I'm Carlos A. Locatelli Jr.
+## Wellcome to my github - @carloslocatellij
 
-I'm very happy for start my navigation by the world of development.
+## I'm very happy for start my navigation by the world of development.
 
-- I'm just preparing this page to be a confortable place for  my ideas and my projects.✔
+### I'm just preparing this page to be a confortable place for  my ideas and my projects.✔
 
 
-- Thanks for your visit.✨💖
+### Thanks for your visit.✨💖
 
 - 📫 How to reach me in Linkedin.
 
-https://www.linkedin.com/in/carloslocatelli/
+[link] https://www.linkedin.com/in/carloslocatelli/
 
 
 
